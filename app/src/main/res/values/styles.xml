@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.MuharrirSuwar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#315C74</item>
+        <item name="colorPrimaryVariant">#203D50</item>
+        <item name="colorSecondary">#D18B47</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#203D50</item>
+        <item name="android:navigationBarColor">#101820</item>
+    </style>
+</resources>
